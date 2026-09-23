@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata below,
+  and cite the accompanying paper using the preferred-citation entry.
+title: >-
+  Accidental accuracy and vertex corrections in GW: Exact benchmarks for the extended Hubbard model
+abstract: >-
+  Jupyter notebook implementing exact diagonalization (ED) and
+  model-space static GW / COHSEX theory for the half-filled extended
+  Hubbard ring, used to benchmark the GW approximation and extract the
+  effective vertex Gamma_eff(U,V) against the numerically exact gap.
+  Reproduces every figure and table in the accompanying paper, including
+  the N=6, 10, 14 finite-size scaling of the accidental-cancellation
+  point U*(N).
+type: software
+authors:
+  - family-names: Atambo
+    given-names: Michael O.
+    email: michael.atambo@tukenya.ac.ke
+    affiliation: >-
+      Department of Physics, Earth and Environmental Science,
+      Technical University of Kenya, Nairobi, Kenya
+# Fill these in once the first Zenodo release exists:
+#   - repository-code: your GitHub URL
+#   - url: the Zenodo record URL
+#   - identifiers[0].value: the Zenodo concept DOI (10.5281/zenodo.XXXXXXX)
+repository-code: 'https://github.com/mikeatm/accidental-accuracy'
+url: 'https://zenodo.org/records/REPLACE_ME'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.REPLACE_ME
+    description: >-
+      The concept DOI representing all versions of this software
+      (resolves to the latest release).
+license: MIT
+version: 1.0.0
+date-released: '2026-09-23'
+keywords:
+  - GW approximation
+  - vertex corrections
+  - extended Hubbard model
+  - exact diagonalization
+  - many-body perturbation theory
+  - quasiparticle gap
+  - COHSEX
+preferred-citation:
+  type: unpublished
+  title: >-
+    Accidental accuracy and vertex corrections in GW: Exact benchmarks
+    for the extended Hubbard model
+  authors:
+    - family-names: Atambo
+      given-names: Michael O.
+      email: michael.atambo@tukenya.ac.ke
+      affiliation: >-
+        Department of Physics, Earth and Environmental Science,
+        Technical University of Kenya, Nairobi, Kenya
+  year: 2026
+  notes: >-
+    Preprint under resubmission; 
+  identifiers:
+    - type: other
+      value: 'arXiv:2608.24838'
+      description: arXiv preprint identifier (currently v2)
+  url: 'https://arxiv.org/abs/2608.24838'

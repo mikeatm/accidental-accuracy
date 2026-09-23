@@ -7,7 +7,7 @@ Code and data accompanying:
 > (preprint; resubmission in progress).
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.24838-b31b1b.svg)](https://arxiv.org/abs/2608.24838)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.REPLACE_ME.svg)](https://doi.org/10.5281/zenodo.REPLACE_ME)
+[![DOI](https://zenodo.org/badge/1383359668.svg)](https://doi.org/10.5281/zenodo.22918064)
 
 *(Replace the Zenodo badge/link above once the first release is minted —
 see "Archiving on Zenodo" below.)*
@@ -115,16 +115,6 @@ both read this automatically). In short:
 - **To cite the code**: cite this repository / its Zenodo DOI.
 - **To cite the physics**: cite the paper, arXiv:2608.24838 (preprint;
   update to the published version once available).
-
-## Archiving on Zenodo
-
-1. Push this repository to GitHub.
-2. Connect the repo at [zenodo.org/account/settings/github](https://zenodo.org/account/settings/github).
-3. Cut a GitHub release (e.g. `v1.0.0`) — Zenodo mints a DOI
-   automatically and archives a snapshot of that release.
-4. Fill in the `REPLACE_ME` placeholders in `CITATION.cff` and the
-   badges above with the resulting DOI and record URL.
-5. Add the DOI to the manuscript's Data Availability statement.
 
 ## Acknowledgments
 

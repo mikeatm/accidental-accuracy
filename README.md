@@ -4,13 +4,10 @@ Code and data accompanying:
 
 > M. O. Atambo, *"Accidental accuracy and vertex corrections in GW: Exact
 > benchmarks for the extended Hubbard model"*, arXiv:2608.24838
-> (preprint; resubmission in progress).
+> (preprint; submission in progress).
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.24838-b31b1b.svg)](https://arxiv.org/abs/2608.24838)
-[![DOI](https://zenodo.org/badge/1383359668.svg)](https://doi.org/10.5281/zenodo.22918064)
-
-*(Replace the Zenodo badge/link above once the first release is minted —
-see "Archiving on Zenodo" below.)*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22918064.svg)](https://doi.org/10.5281/zenodo.22918064)
 
 ## What this is
 
